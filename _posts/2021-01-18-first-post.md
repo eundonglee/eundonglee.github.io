@@ -1,5 +1,7 @@
 ---
 title:  "First post!"
+tags:
+  - test
 categories:
   - test
 ---
